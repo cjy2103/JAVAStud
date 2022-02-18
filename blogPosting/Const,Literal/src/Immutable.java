@@ -1,5 +1,7 @@
+import java.awt.*;
+
 public class Immutable {
-    private String str;
+    private final String str;
 
     public Immutable(String str) {
         this.str = str;
