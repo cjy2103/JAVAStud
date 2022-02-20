@@ -8,7 +8,9 @@ contains
 
 박싱, 언박싱
 
-제너릭 타입
+제너릭 타입 ( v )
+
+리터럴, 상수 ( v )
 
 BigInteger
 

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="849a5866-cd03-458e-8683-16e42bc38f0d" name="Default Changelist" comment="" />
+    <list default="true" id="849a5866-cd03-458e-8683-16e42bc38f0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/equalsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equalsString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../블로그포스팅 TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../블로그포스팅 TODO.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +61,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="equalsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalsString" />
+      <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.equalsString" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,6 +88,8 @@
       <workItem from="1644742084678" duration="382000" />
       <workItem from="1644742491112" duration="609000" />
       <workItem from="1644845052435" duration="128000" />
+      <workItem from="1645332837892" duration="1371000" />
+      <workItem from="1645351522808" duration="2515000" />
     </task>
     <servers />
   </component>
@@ -81,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
