@@ -1,4 +1,4 @@
-equals, == 차이
+equals, == 차이 ( v )
 
 Stirng StringBuilder, StringBuffer 차이
 
@@ -11,6 +11,8 @@ contains
 제너릭 타입 ( v )
 
 리터럴, 상수 ( v )
+
+public class class 차이
 
 BigInteger
 

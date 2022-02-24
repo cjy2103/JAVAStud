@@ -1,4 +1,4 @@
-public class Main {
+ public class Main {
     public static void main(String[] args) {
         final Test test = new Test();
 
@@ -6,7 +6,7 @@ public class Main {
         System.out.println(test.str);
 
         test.data = 100;
-        test.str = "º¯°æ";
+        test.str = "ë³€ê²½";
 
         System.out.println(test.data);
         System.out.println(test.str);
@@ -14,10 +14,5 @@ public class Main {
 
         final int a = 10;
 
-        String string = "Test";
-        Immutable immutable = new Immutable(string);
-        string.concat("Day");
-        System.out.println(immutable);
-        System.out.println(string);
     }
 }
