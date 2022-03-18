@@ -17,5 +17,11 @@ public class equalsString {
 
         System.out.println(str3 == str4);
         System.out.println(str3.equals(str4));
+
+        Integer a = 300;
+
+        System.out.println(str.equals(a));
+
     }
+
 }

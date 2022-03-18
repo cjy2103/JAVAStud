@@ -1,4 +1,4 @@
-
+import java.util.Random;
 
 public class Color {
     private final String color;

@@ -4,41 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="849a5866-cd03-458e-8683-16e42bc38f0d" name="Default Changelist" comment="">
+    <list default="true" id="5433ce58-8ed9-4064-ad2d-05b924751948" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DTO,VO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DTO,VO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DTO,VO/src/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DTO,VO/src/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/out/production/String/equalsString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/String/equalsString.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/equalsString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/equalsString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../블로그포스팅 TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../블로그포스팅 TODO.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-=======
-    </list>
->>>>>>> 1e411ca21c3fd3215d293d6de1e0ee40f0bdbc0e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="ProjectId" id="2533jyCxa0ehGTZaY9WSTBkf94s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,34 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Const,Literal" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-  </component>
-<<<<<<< HEAD
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="equalsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -89,42 +40,26 @@
       </list>
     </recent_temporary>
   </component>
-=======
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
->>>>>>> 1e411ca21c3fd3215d293d6de1e0ee40f0bdbc0e
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="849a5866-cd03-458e-8683-16e42bc38f0d" name="Default Changelist" comment="" />
-      <created>1644742081593</created>
+      <changelist id="5433ce58-8ed9-4064-ad2d-05b924751948" name="Changes" comment="" />
+      <created>1647491802018</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644742081593</updated>
-      <workItem from="1644742084678" duration="382000" />
-      <workItem from="1644742491112" duration="609000" />
-      <workItem from="1644845052435" duration="128000" />
-      <workItem from="1645332837892" duration="1371000" />
-      <workItem from="1645351522808" duration="2515000" />
+      <updated>1647491802018</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

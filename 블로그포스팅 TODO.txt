@@ -12,7 +12,7 @@ BigDecimal ( v )
 
 Stirng StringBuilder, StringBuffer 차이
 
-contains
+contains ( v )
 
 특정 단어 바꾸기.
 
