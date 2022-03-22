@@ -8,6 +8,6 @@ public class Main {
         System.out.println(str.contains(" hello"));
         System.out.println(str.contains("my"));
         System.out.println(str.contains(" my "));
-        
+
     }
 }
