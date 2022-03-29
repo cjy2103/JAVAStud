@@ -28,10 +28,20 @@ public class WordReplace {
      * @DESC: replace 메서드 사용
      */
     public void useReplace(){
-        String origin = "Hello World!";
-        String changeWord = origin.replace("o","e");
+        String origin = "Hello World!)";
+        String changeWord = origin.replace(")","");
 
         System.out.println(changeWord);
 
+    }
+
+    /**
+     * @DESC: replaceAll 메서드 사용
+     */
+    public void useReplaceAll(){
+        String origin = "Hello World!)";
+        String changeWord = origin.replaceAll("\\)","");
+
+        System.out.println(changeWord);
     }
 }
