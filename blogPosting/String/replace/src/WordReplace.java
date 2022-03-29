@@ -44,4 +44,15 @@ public class WordReplace {
 
         System.out.println(changeWord);
     }
+
+    /**
+     * @DESC: replaceFirst »ç¿ë
+     */
+    public void useReplaceFirst(){
+        String origin = "Hello World!";
+        String changeWord = origin.replaceFirst("o","e");
+
+        System.out.println(changeWord);
+
+    }
 }

@@ -10,6 +10,8 @@ public class Main {
         wordReplace.useReplace();
 
         wordReplace.useReplaceAll();
+
+        wordReplace.useReplaceFirst();
     }
 
 }
