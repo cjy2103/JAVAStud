@@ -16,7 +16,9 @@ contains ( v )
 
 특정 단어 바꾸기. ( v )
 
-박싱, 언박싱
+박싱, 언박싱 ( v )
+
+StringBuilder  ( v )
 
 public class class 차이
 
@@ -39,11 +41,13 @@ override
 타입 찾아내기
 
 같은 클래스인지 비교
+
+향상된 for문
 =======
 상속
 
 
-JAVA class란
+JAVA class란 ( v )
 접근제어자
 생성자
 인스턴스 변수, 클래스 변수
