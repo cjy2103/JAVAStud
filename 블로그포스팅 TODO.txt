@@ -10,7 +10,7 @@ BigDecimal ( v )
 
 자바 타입 (기본형, 참조형) ( v )
 
-Stirng StringBuilder, StringBuffer 차이
+Stirng StringBuilder, StringBuffer 차이 ( v )
 
 contains ( v )
 
@@ -19,6 +19,8 @@ contains ( v )
 박싱, 언박싱 ( v )
 
 StringBuilder  ( v )
+
+StringBuffer ( v )
 
 public class class 차이
 
