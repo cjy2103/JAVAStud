@@ -22,7 +22,11 @@ StringBuilder  ( v )
 
 StringBuffer ( v )
 
-public class class 차이
+캡슐화란?
+
+정보은닉이란?
+
+public class class 차이 / 접근제한자
 
 call by value 
 
