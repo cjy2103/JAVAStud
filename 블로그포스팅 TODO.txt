@@ -22,7 +22,7 @@ StringBuilder  ( v )
 
 StringBuffer ( v )
 
-String Pool 이란?
+String Pool 이란? ( v ) 
 
 캡슐화란?
 
