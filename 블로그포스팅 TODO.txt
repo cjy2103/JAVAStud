@@ -24,9 +24,9 @@ StringBuffer ( v )
 
 String Pool 이란? ( v ) 
 
-캡슐화란?
+캡슐화란? ( v )
 
-정보은닉이란?
+정보은닉이란? ( v )
 
 추상화란?
 
