@@ -10,7 +10,7 @@ BigDecimal ( v )
 
 자바 타입 (기본형, 참조형) ( v )
 
-Stirng StringBuilder, StringBuffer 차이
+Stirng StringBuilder, StringBuffer 차이 ( v )
 
 contains ( v )
 
@@ -20,11 +20,29 @@ contains ( v )
 
 StringBuilder  ( v )
 
-public class class 차이
+StringBuffer ( v )
+
+String Pool 이란? ( v ) 
+
+캡슐화란? ( v )
+
+정보은닉이란? ( v )
+
+추상화란?
+
+추상클래스란? / 추상클래스 용도?
+
+인터페이스란?
+
+추상클래스, 인터페이스 차이
+
+public class class 차이 / 접근제한자
 
 call by value 
 
 call by reference
+
+Mutable, Immutable 이란?
 
 overloading , overload 차이
 
@@ -42,22 +60,20 @@ override
 
 같은 클래스인지 비교
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+AtomicBoolean
+
 향상된 for문
-=======
-향상된 for문 
->>>>>>> Stashed changes
-=======
-향상된 for문 
->>>>>>> Stashed changes
 =======
 상속
 
 
 JAVA class란 ( v )
-접근제어자
+접근제어자 ( v )
 생성자
 인스턴스 변수, 클래스 변수
+
+객체란?
+
+객체와 클래스의 차이
 
 전역변수 재할당은 왜 안되는가? 메서드에서는 되는데? 
