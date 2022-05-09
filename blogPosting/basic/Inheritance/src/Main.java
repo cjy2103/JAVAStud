@@ -10,9 +10,8 @@ public class Main {
         System.out.println("현재 자동차:"+currentCar);
         System.out.println("현재 가격: "+currentPrice);
 
-        Suv suv = new Suv();
+        Suv suv = new Suv(3800);
         suv.name = new StringBuilder("스포티지");
-        suv.price = 3800;
 
         System.out.println("현재 자동차:" + suv.name);
         System.out.println("현재 가격 : "+ suv.price);

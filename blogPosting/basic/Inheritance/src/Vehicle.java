@@ -2,6 +2,14 @@ public class Vehicle {
     int price;
     StringBuilder name;
 
+    public Vehicle(){
+
+    }
+
+    public Vehicle(int price) {
+        this.price = price;
+    }
+
     public int getPrice() {
         return price;
     }
