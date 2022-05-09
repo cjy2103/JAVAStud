@@ -71,6 +71,10 @@ AtomicBoolean
 향상된 for문
 
 싱글톤 패턴
+
+OCP 원칙
+
+SOLID 원칙 
 =======
 
 
