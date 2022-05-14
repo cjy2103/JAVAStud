@@ -70,7 +70,7 @@ AtomicBoolean
 
 향상된 for문
 
-싱글톤 패턴
+싱글톤 패턴 ( v )
 
 OCP 원칙
 
