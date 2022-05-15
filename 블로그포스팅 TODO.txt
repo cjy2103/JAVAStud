@@ -42,6 +42,10 @@ String Pool 이란? ( v )
 
 추상클래스, 인터페이스 차이 ( v )
 
+메서드 헤드, 바디?
+
+객체 상태, 행동?
+
 public class class 차이 / 접근제한자
 
 call by value 
