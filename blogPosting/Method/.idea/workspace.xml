@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66893b51-8756-4c5a-a24a-22732db4dd66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeFind/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TypeFind/src/TypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../블로그포스팅 TODO.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../블로그포스팅 TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basic/Method" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647065717289</updated>
       <workItem from="1647065718662" duration="2650000" />
+      <workItem from="1652620980684" duration="51000" />
+      <workItem from="1652621183906" duration="17000" />
     </task>
     <servers />
   </component>
@@ -90,7 +90,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
