@@ -40,7 +40,7 @@ String Pool 이란? ( v )
 
 인터페이스란? ( v )
 
-추상클래스, 인터페이스 차이
+추상클래스, 인터페이스 차이 ( v )
 
 public class class 차이 / 접근제한자
 
