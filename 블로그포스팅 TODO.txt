@@ -44,7 +44,7 @@ String Pool 이란? ( v )
 
 메서드 시그니처, 헤드, 바디? ( v )
 
-객체 상태, 행동?
+객체 상태, 행동? ( v )
 
 public class class 차이 / 접근제한자
 
