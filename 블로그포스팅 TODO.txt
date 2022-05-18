@@ -48,7 +48,7 @@ String Pool 이란? ( v )
 
 객체와 인스턴스의 차이 ( v )
 
-public class class 차이 / 접근제한자
+public class class 차이 / 접근제한자 ( v )
 
 call by value 
 
