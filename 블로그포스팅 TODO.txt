@@ -50,9 +50,7 @@ String Pool 이란? ( v )
 
 public class class 차이 / 접근제한자 ( v )
 
-call by value 
-
-call by reference
+call by value / call by reference ( v )
 
 Mutable, Immutable 이란?
 
