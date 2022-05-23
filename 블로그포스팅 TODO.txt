@@ -52,7 +52,7 @@ public class class 차이 / 접근제한자 ( v )
 
 call by value / call by reference ( v )
 
-Mutable, Immutable 이란?
+Mutable, Immutable 이란? ( v )
 
 overloading , overload 차이
 
