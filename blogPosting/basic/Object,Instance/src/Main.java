@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         Frame redBean; // 객체 ( 붕어빵 )
         // 인스턴스화
-        redBean = new Frame("팥붕어빵"); // readBean은 Frame 클래스의 '인스턴스' (붕어빵 종류)
+        redBean = new Frame("팥붕어빵"); // redBean은 Frame 클래스의 '인스턴스' (붕어빵 종류)
         redBean.printName();
 
         Frame puff; // 객체 ( 붕어빵 )
