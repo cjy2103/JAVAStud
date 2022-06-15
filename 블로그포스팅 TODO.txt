@@ -74,7 +74,7 @@ BufferReader / BufferWriter ( v )
 
 AtomicBoolean
 
-향상된 for문
+for each문 / 향상된 for문 ( v )
 
 싱글톤 패턴 ( v )
 
