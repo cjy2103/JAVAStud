@@ -60,7 +60,7 @@ override ( v )
 
 BufferReader / BufferWriter ( v )
 
-자바 정규식
+자바 정규식 ( v )
 
 자바 메모리 관리
 
