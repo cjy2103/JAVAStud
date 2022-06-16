@@ -95,6 +95,10 @@ split
 trim
 
 Comparator
+
+옵저버 패턴
+
+팩토리 패턴
 =======
 
 
