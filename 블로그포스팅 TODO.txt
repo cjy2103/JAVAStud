@@ -69,7 +69,7 @@ BufferReader / BufferWriter ( v )
 자바 메모리 관리
 
 
-데몬 스레드 
+데몬 스레드 ( v )
 
 타입 찾아내기
 
