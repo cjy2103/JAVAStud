@@ -81,7 +81,7 @@ AtomicBoolean
 
 for each문 / 향상된 for문 ( v )
 
-for문 탈출 break, continue;
+for문 탈출 break, continue ( v )
 
 싱글톤 패턴 ( v )
 
