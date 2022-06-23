@@ -101,13 +101,35 @@ StringTokenizer
 
 split
 
+형변환 (casting)
+
+오늘 날짜 가져오기 ( Date )
+
+숫자단위 콤마찍기 ( 금액 표기 ) 
+-> DecimalFormat , 정규식
+
+Vector0
 
 
 Comparator
 
+Iterator
+
+shallow Copy , Deep Copy
+
+배열 오름차순, 내림차순 정렬
+
+======= 디자인패턴 =====
+
 옵저버 패턴
 
 팩토리 패턴
+
+데코레이터 패턴
+
+프록시 패턴
+
+
 =======
 
 
