@@ -71,6 +71,8 @@ BufferReader / BufferWriter ( v )
 
 데몬 스레드 ( v )
 
+trim ( v )
+
 꼬리재귀
 
 타입 찾아내기
@@ -99,7 +101,7 @@ StringTokenizer
 
 split
 
-trim
+
 
 Comparator
 
