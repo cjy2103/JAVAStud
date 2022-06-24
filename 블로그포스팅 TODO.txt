@@ -101,7 +101,7 @@ StringTokenizer
 
 split
 
-형변환 (casting)
+형변환 (casting) ( v )
 
 오늘 날짜 가져오기 ( Date )
 
