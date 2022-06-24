@@ -11,7 +11,8 @@ public class LanguageCheck {
     }
 
     public boolean koreanCheck(String str){
-        String regex = "^([가-힣]+[0-9]*)$";
+//        String regex = "^([가-힣]+[0-9]*)$";
+        String regex = "^([가-힣]*)$";
 
         Pattern pattern = Pattern.compile(regex);
 
