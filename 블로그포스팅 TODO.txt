@@ -87,6 +87,8 @@ for문 탈출 break, continue ( v )
 
 싱글톤 패턴 ( v )
 
+익명객체 ( v )
+
 OCP 원칙
 
 SOLID 원칙 
