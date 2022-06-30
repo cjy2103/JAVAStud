@@ -89,7 +89,7 @@ static ( v )
 
 파일생성, 수정, 삭제
 
-자바 메모리 관리
+자바 메모리 관리 / Garbage Collection / GC 
 
 
 꼬리재귀
