@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Split.iml" filepath="$PROJECT_DIR$/Split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubString.iml" filepath="$PROJECT_DIR$/SubString.iml" />
     </modules>
   </component>
 </project>

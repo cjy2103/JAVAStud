@@ -91,6 +91,11 @@ static ( v )
 
 자바 final 의미
 
+substring ( v )
+
+split
+
+
 자바 enum 
 
 자바 Shift 연산자
@@ -121,7 +126,6 @@ Collection
 
 StringTokenizer
 
-split
 
 
 Vector0
