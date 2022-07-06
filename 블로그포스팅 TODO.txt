@@ -93,8 +93,7 @@ static ( v )
 
 substring ( v )
 
-split
-
+split ( v )
 
 자바 enum 
 
