@@ -97,7 +97,7 @@ split ( v )
 
 자바 enum ( v )
 
-자바 Shift 연산자
+자바 Shift 연산자 ( v )
 
 파일생성, 수정, 삭제
 
