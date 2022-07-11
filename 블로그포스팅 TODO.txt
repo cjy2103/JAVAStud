@@ -95,7 +95,7 @@ substring ( v )
 
 split ( v )
 
-자바 enum 
+자바 enum ( v )
 
 자바 Shift 연산자
 
