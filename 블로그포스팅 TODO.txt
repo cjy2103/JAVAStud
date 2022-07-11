@@ -103,6 +103,7 @@ split ( v )
 
 자바 메모리 관리 / Garbage Collection / GC 
 
+Stack
 
 꼬리재귀
 
@@ -112,6 +113,9 @@ split ( v )
 
 AtomicBoolean
 
+최대값, 최소값 구하기
+
+최대공약수, 최소공배수 구하기
 
 OCP 원칙
 
@@ -125,6 +129,9 @@ Collection
 
 StringTokenizer
 
+Concat
+
+삼항연산자
 
 
 Vector0
