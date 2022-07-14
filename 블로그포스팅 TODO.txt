@@ -101,9 +101,9 @@ split ( v )
 
 람다 ( v )
 
-Swich case
+Swich case ( v )
 
-삼항연산자
+삼항연산자 ( v )
 
 파일생성, 수정, 삭제
 
