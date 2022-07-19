@@ -111,6 +111,8 @@ Swich case ( v )
 
 Stack ( v )
 
+더블 콜론 :: ( v )
+
 꼬리재귀
 
 타입 찾아내기
@@ -134,8 +136,6 @@ StringTokenizer
 
 Concat
 
-
-더블 콜론 :: 
 
 Vector0
 
