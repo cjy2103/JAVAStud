@@ -128,7 +128,7 @@ SOLID 원칙
 
 Stream
 
-Collection
+Collection ( v )
 
 
 
