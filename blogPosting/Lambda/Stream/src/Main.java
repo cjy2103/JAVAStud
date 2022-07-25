@@ -4,5 +4,7 @@ public class Main {
 
         streamTest.interatorTest();
         streamTest.streamTest();
+        streamTest.streamTest2();
+        streamTest.streamTest3();
     }
 }

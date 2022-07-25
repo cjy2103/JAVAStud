@@ -115,7 +115,7 @@ Stack ( v )
 
 StringTokenizer ( v )
 
-Iterator( )
+Iterator( v )
 
 꼬리재귀
 
@@ -130,7 +130,7 @@ OCP 원칙
 
 SOLID 원칙 
 
-Stream
+Stream ( v )
 
 Collection ( v )
 
