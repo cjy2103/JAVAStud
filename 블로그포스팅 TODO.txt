@@ -123,6 +123,8 @@ Stream ( v )
 
 Collection ( v )
 
+Vecto ( v )
+
 꼬리재귀
 
 타입 찾아내기
@@ -136,9 +138,6 @@ OCP 원칙
 SOLID 원칙 
 
 Concat
-
-Vector0
-
 
 Comparator
 
