@@ -11,6 +11,6 @@ public class StringTest {
         sb.append(" String");
         sb.append(" Test");
         System.out.println(sb);
-        
+
     }
 }

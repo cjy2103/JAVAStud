@@ -123,7 +123,10 @@ Stream ( v )
 
 Collection ( v )
 
-Vecto ( v )
+Vector ( v )
+
+Concat, append ( v )
+
 
 꼬리재귀
 
@@ -136,8 +139,6 @@ AtomicBoolean
 OCP 원칙
 
 SOLID 원칙 
-
-Concat
 
 Comparator
 
