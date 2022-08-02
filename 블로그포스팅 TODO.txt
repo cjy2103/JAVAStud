@@ -150,8 +150,6 @@ Comparator, Comparable ( v )
 
 AtomicBoolean
 
-Comparator
-
 shallow Copy , Deep Copy
 
 배열 오름차순, 내림차순 정렬
