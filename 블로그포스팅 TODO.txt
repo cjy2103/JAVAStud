@@ -140,7 +140,7 @@ OCP 원칙
 
 SOLID 원칙 
 
-Comparator, Comparable
+Comparator, Comparable ( v )
 
 꼬리재귀
 
