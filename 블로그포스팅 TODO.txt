@@ -128,14 +128,6 @@ Vector ( v )
 Concat, append ( v )
 
 
-꼬리재귀
-
-타입 찾아내기
-
-같은 클래스인지 비교
-
-AtomicBoolean
-
 OCP 원칙
 
 SOLID 원칙 
