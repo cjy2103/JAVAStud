@@ -4,5 +4,6 @@ public class Main {
         test.shallowCopy();
         test.deepCopy();
         test.objectCopy();
+        test.multiDimensionalArrayCopy();
     }
 }
