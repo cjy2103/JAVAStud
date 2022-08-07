@@ -153,6 +153,33 @@ AtomicBoolean
 
 커링 
 
+JVM 메모리 구조
+
+다형성이란
+
+내부 클래스
+
+Wrapper 클래스
+
+ChoiceFormat
+
+MessageFormat
+
+annotation이란
+
+Thread
+
+start(), run()
+
+싱글쓰레드, 멀티쓰레드
+
+쓰레드 우선순위
+
+쓰레드 그룹
+
+volatile?
+
+Stream 자르기 skip(), limit()
 ============== 예외 ================
 ConcurrentModificationException
 =======
