@@ -6,10 +6,12 @@ public class Main {
 //        Test test = new Test();
         String temp = "";
 
-        if(temp.isEmpty()){
-            System.out.println("Ёнюс");
-        } else {
-            System.out.println("Ён╬ф╢т");
+        if(temp!=null) {
+            if (temp.isEmpty()) {
+                System.out.println("Ёнюс");
+            } else {
+                System.out.println("Ён╬ф╢т");
+            }
         }
 
         if(temp.isEmpty()){
