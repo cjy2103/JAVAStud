@@ -53,7 +53,7 @@ public class VectorTest {
         for(int i=0;i<vector.size();i++){
             System.out.println(vector.get(i));
         }
-
+        
         // forEach 문
         for(Integer num : vector){
             System.out.println(num);
