@@ -180,6 +180,8 @@ start(), run()
 volatile?
 
 Stream 자르기 skip(), limit()
+
+직렬화
 ============== 예외 ================
 ConcurrentModificationException
 =======
