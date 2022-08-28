@@ -165,7 +165,7 @@ ChoiceFormat
 
 MessageFormat
 
-annotation이란
+annotation이란 ( v )
 
 Thread
 
