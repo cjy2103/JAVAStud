@@ -133,6 +133,8 @@ shallow Copy , Deep Copy ( v )
 
 다차원 배열 요소 확인 (deepToString) ( v )
 
+예외 try/catch ( v )
+
 OCP 원칙
 
 SOLID 원칙 
