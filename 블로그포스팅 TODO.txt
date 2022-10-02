@@ -135,6 +135,8 @@ shallow Copy , Deep Copy ( v )
 
 예외 try/catch ( v )
 
+셔플 ( )
+
 OCP 원칙
 
 SOLID 원칙 
