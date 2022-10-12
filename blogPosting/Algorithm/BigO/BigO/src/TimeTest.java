@@ -16,4 +16,14 @@ public class TimeTest {
         System.out.println("코드 실행시간:"+diff+"ms");
 
     }
+
+    public void bigO(){
+        int [][] arr = {{1,2,3},{4,5,6},{7,8,9}};
+
+        for(int [] array : arr){
+            for(int num : array){
+                System.out.println(num);
+            }
+        }
+    }
 }
