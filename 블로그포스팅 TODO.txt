@@ -8,7 +8,7 @@
 
 List란? ( v )
 List, ArrayList차이 ( v )
-
+리스트 정렬 ( v )
 
 1차원 배열 출력 ( v )
 다차원 배열 출력 ( v )
