@@ -1,6 +1,10 @@
 public class StringNum {
 
-    public void sort(){
-        
+    public int parse(String... str){
+        int result = 0;
+        for(String num : str){
+            result += Integer.parseInt(num);
+        }
+        return result;
     }
 }

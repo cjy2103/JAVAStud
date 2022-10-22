@@ -12,6 +12,8 @@ List, ArrayList차이 ( v )
 LinkedList ( v )
 리스트 vs 배열 ( v )
 
+문자열 -> 정수형 변환 , parseInt ( v )
+
 1차원 배열 출력 ( v )
 다차원 배열 출력 ( v )
 
