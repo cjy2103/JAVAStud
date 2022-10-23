@@ -136,10 +136,6 @@ Collection ( v )
 
 Stream ( v )
 
-Collection ( v )
-
-Vector ( v )
-
 Concat, append ( v )
 
 Comparator, Comparable ( v )
@@ -214,13 +210,17 @@ ConcurrentModificationException
 
 버블정렬 ( v )
 
+삽입정렬
+
+선택정렬
+
+칵테일 정렬
+
 최대공약수, 최소공배수 구하기
 
-
-
-
-
 ======= 콜렉션 ==========
+Collection ( v )
+Vector ( v )
 List란? ( v )
 List, ArrayList차이 ( v )
 리스트 정렬 ( v )
