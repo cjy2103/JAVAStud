@@ -192,7 +192,7 @@ start(), run()
 
 쓰레드 그룹
 
-volatile?
+volatile? ( v )
 
 Stream 자르기 skip(), limit()
 
