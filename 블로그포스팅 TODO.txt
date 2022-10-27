@@ -192,6 +192,8 @@ start(), run()
 
 쓰레드 그룹
 
+synchronized ( v )
+
 volatile? ( v )
 
 Stream 자르기 skip(), limit()
