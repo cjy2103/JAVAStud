@@ -8,6 +8,8 @@
 
 문자열 -> 정수형 변환 , parseInt ( v )
 
+length, length() 차이 ( v )
+
 1차원 배열 출력 ( v )
 다차원 배열 출력 ( v )
 
