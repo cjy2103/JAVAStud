@@ -201,6 +201,11 @@ volatile? ( v )
 Stream 자르기 skip(), limit()
 
 직렬화
+
+getClass() 
+instanceOf
+
+getClass와 instanceOf의 차이
 ============== 예외 ================
 ConcurrentModificationException
 
