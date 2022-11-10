@@ -219,9 +219,9 @@ ConcurrentModificationException
 
 버블정렬 ( v )
 
-삽입정렬
+삽입정렬 ( v )
 
-선택정렬
+선택정렬 ( v )
 
 칵테일 정렬
 
