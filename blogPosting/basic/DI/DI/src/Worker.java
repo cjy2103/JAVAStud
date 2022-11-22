@@ -1,7 +1,13 @@
 public class Worker {
-    private CarBluePrint carBluePrint;
+//    private Produce produce;
+//
+//    public Worker(Produce produce) {
+//        this.produce = produce;
+//    }
+    private Produce produce = new Sonata();
 
-    public Worker(){
-        carBluePrint = new CarBluePrint();
+    public void setProduce(Produce produce) {
+        this.produce = produce;
     }
 }
+
