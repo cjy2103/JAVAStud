@@ -198,6 +198,8 @@ synchronized ( v )
 
 volatile? ( v )
 
+DI란? ( v )
+
 Stream 자르기 skip(), limit()
 
 직렬화
@@ -250,6 +252,10 @@ Set ( )
 
 프록시 패턴
 
+이터레이터 패턴 ( v )
+
+Visitor 패턴
+Composite 패턴
 
 =======
 
