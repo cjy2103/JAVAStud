@@ -1,33 +1,29 @@
-import java.util.Iterator;
-
-public class StudentGroup implements Aggreate{
+public class StudentGroup implements Aggregate {
 
     private Student[] students;
-    private int last = 0;
 
-    public StudentGroup(int maxSize){
+    private int position = 0;
+
+    public StudentGroup(int maxSize) {
         this.students = new Student[maxSize];
     }
 
-    /**
-     * @DESC: 현재 학생 객체배열의 위치 리턴
-     * @param index
-     * @return
-     */
-    public Student getStudentAt(int index){
+    public Student getStudentAt(int index) {
         return students[index];
     }
 
-    public void appendStudent(Student student){
-        this.students[last] = student;
+    public void appendStudent(Student student) {
+        this.students[position] = student;
+        position++;
     }
 
-    public int getSize(){
-        return last;
+    public int getSize() {
+        return position;
     }
+
 
     @Override
-    public Iterator iterator() {
-        return null;
+    public CustomIterator iterator() {
+        return new StudentGroupCustomIterator(this);
     }
 }
