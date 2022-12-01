@@ -1,6 +1,7 @@
 public class Test {
 
     public void stringType(String compare) {
+
         var word    = "Hello";
 
         if(word.equals(compare)){
@@ -21,4 +22,6 @@ public class Test {
         var num = 4.5;
         System.out.println("몫:"+(num/number));
     }
+
+
 }

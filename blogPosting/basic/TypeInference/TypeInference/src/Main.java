@@ -1,8 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        var str = "Hello";
-
         Test test = new Test();
 
         test.stringType("Hello");
