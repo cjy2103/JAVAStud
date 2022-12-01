@@ -4,6 +4,7 @@ public class ListTest {
 
     public void listTest(){
         ArrayList<Integer> arrayList = new ArrayList<>();
+        
 
         arrayList.add(1);
         arrayList.add(2);
