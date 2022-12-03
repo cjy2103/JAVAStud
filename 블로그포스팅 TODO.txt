@@ -201,7 +201,7 @@ volatile? ( v )
 DI란? ( v )
 
 var / 타입추론  ( v )
-기본형 메모리 주소값 찾기 ( )
+기본형 메모리 주소값 찾기 ( v )
 TextBlock ( v ) 
 
 Stream 자르기 skip(), limit()
