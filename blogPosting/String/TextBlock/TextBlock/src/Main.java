@@ -3,5 +3,6 @@ public class Main {
         Test test = new Test();
         test.textBlock();
         test.textBlock2();
+        test.textBlock3();
     }
 }

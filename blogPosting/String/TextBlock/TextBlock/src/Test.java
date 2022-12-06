@@ -28,4 +28,23 @@ public class Test {
 
         System.out.println(str);
     }
+
+    public void textBlock3(){
+        String car = "스포티지 하이브리드";
+        int price = 4000;
+
+        System.out.printf("""
+                차종 : %s
+                가격 : %d
+                """, car,price);
+
+        car = "토레스";
+        price = 3400;
+
+        System.out.println("""
+                차종 : %s
+                가격 : %d
+                %n""".formatted(car, price)
+        );
+    }
 }
