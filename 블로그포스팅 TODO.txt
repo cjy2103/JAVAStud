@@ -246,7 +246,8 @@ LinkedList ( v )
 Stack ( v )
 Queue ( v )
 Set ( v )
-해시
+Map / HashMap ( v )
+HashMap ( capacity, load factor) ( v )
 
 ======= 디자인패턴 =====
 
