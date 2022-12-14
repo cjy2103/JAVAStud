@@ -1,10 +1,16 @@
-import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.concurrent.Flow;
 
 public class MySubscription implements Flow.Subscription {
 
-    public MySubscription(ArrayList<Integer> list, Flow.Subscriber subscriber) {
-        System.out.println("구독정보 생성됨");
+    private Iterator<Integer> list;
+    private Flow.Subscriber   subscriber;
+
+
+    public MySubscription(Iterable<Integer> list, Flow.Subscriber subscriber) {
+        System.out.println("구독 정보 생성됨");
+        this.list = list.iterator();
+        this.subscriber = subscriber;
     }
 
     @Override
@@ -12,6 +18,13 @@ public class MySubscription implements Flow.Subscription {
         System.out.printf("""
                 구독 알림 %d개씩 받음
                 """, n);
+        while (n-->0){
+            if(list.hasNext()){
+
+            }
+        }
+
+        subscriber.onNext(list.next());
     }
 
     @Override
