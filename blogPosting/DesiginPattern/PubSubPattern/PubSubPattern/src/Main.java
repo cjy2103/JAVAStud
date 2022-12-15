@@ -4,7 +4,5 @@ public class Main {
         MySubscriber sub = new MySubscriber();
         
         pub.subscribe(sub); // 구독 시작
-
-
     }
 }

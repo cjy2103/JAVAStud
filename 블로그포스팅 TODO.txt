@@ -259,6 +259,8 @@ HashMap ( capacity, load factor) ( v )
 
 프록시 패턴
 
+Pub/Sub 패턴 ( v )
+
 이터레이터 패턴 ( v )
 
 Visitor 패턴
