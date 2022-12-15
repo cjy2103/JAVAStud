@@ -18,13 +18,18 @@ public class MySubscription implements Flow.Subscription {
         System.out.printf("""
                 구독 알림 %d개씩 받음
                 """, n);
-        while (n-->0){
+        while (n-- >0){
             if(list.hasNext()){
-
+                try {
+                    subscriber.onNext(list.next());
+                    Thread.sleep(500);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+            } else {
+                subscriber.onComplete();
             }
         }
-
-        subscriber.onNext(list.next());
     }
 
     @Override
