@@ -150,10 +150,6 @@ shallow Copy , Deep Copy ( v )
 
 셔플 ( )
 
-OCP 원칙
-
-SOLID 원칙 
-
 
 꼬리재귀
 
@@ -164,7 +160,7 @@ SOLID 원칙
 AtomicBoolean
 
 
-배열 오름차순, 내림차순 정렬
+배열 오름차순, 내림차순 정렬 ( v )
 
 클로저 ( v )
 
