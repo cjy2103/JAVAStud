@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 
@@ -30,6 +31,13 @@ public class Main {
         System.out.println(country);
         System.out.println(student);
 
+
+        // case 1
+        ArrayList<Integer> list = new ArrayList();
+        // case 2
+        ArrayList<Integer> list2 = new ArrayList<Integer>();
+        // Diamond operator
+        ArrayList<Integer> list3 = new ArrayList<>();
 
     }
 }
