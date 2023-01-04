@@ -153,7 +153,7 @@ shallow Copy , Deep Copy ( v )
 
 꼬리재귀
 
-타입 찾아내기
+타입 찾아내기 ( v )
 
 같은 클래스인지 비교
 
@@ -199,6 +199,8 @@ DI란? ( v )
 var / 타입추론  ( v )
 기본형 메모리 주소값 찾기 ( v )
 TextBlock ( v ) 
+
+Double Brace Initialization / 이중괄호 초기화 ( v )
 
 Stream 자르기 skip(), limit()
 
