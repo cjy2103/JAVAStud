@@ -1,15 +1,12 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Random;
 
 public class ArrayShuffle {
 
-    public Array[] randomUse(Array[] array){
-        Random random = new Random();
-
+    public int[] randomUse(int[] array){
         for(int i=0;i<array.length;i++){
             int value = (int)(Math.random() * array.length);
-            
+            int temp = array[i];
+            array[i] = array[value];
+            array[value] = temp;
         }
 
         return array;
