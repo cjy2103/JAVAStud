@@ -150,7 +150,7 @@ shallow Copy , Deep Copy ( v )
 
 자바 디컴파일러 ( v )
 
-셔플 ( )
+셔플 ( v )
 
 
 꼬리재귀
