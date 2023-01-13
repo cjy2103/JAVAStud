@@ -168,6 +168,8 @@ AtomicBoolean
 
 클로저 ( v )
 
+hashCode ( v )
+
 커링 
 
 JVM 메모리 구조
