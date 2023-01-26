@@ -188,6 +188,9 @@ annotation이란 ( v )
 
 Thread
 
+쓰레드 종료 / Thread.interrupt ( v )
+
+
 start(), run()
 
 싱글쓰레드, 멀티쓰레드
