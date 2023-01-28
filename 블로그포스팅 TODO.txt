@@ -236,7 +236,9 @@ ConcurrentModificationException
 
 선택정렬 ( v )
 
-칵테일 정렬
+칵테일 정렬 ( v )
+
+퀵 정렬 ( v )
 
 최대공약수, 최소공배수 구하기
 
