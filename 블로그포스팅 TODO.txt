@@ -160,6 +160,7 @@ shallow Copy , Deep Copy ( v )
 
 셔플 ( v )
 
+OCP 예시 ( v )
 
 꼬리재귀
 
