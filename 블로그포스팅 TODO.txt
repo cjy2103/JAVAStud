@@ -225,7 +225,11 @@ Stream 자르기 skip(), limit()
 getClass() 
 instanceOf
 
-자바 Default Method ( v )
+Default Method ( v )
+
+Multiple Inheritance(다중 상속) 와 접근 제한자 / 상속과 인터페이스(디폴트 메서드) 규칙 ( v )
+
+
 
 getClass와 instanceOf의 차이
 ============== 예외 ================
