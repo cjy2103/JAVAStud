@@ -45,6 +45,8 @@ StringBuffer ( v )
 
 String Pool 이란? ( v ) 
 
+String Pool에 값 등록 , intern ( v )
+
 캡슐화란? ( v )
 
 정보은닉이란? ( v )
