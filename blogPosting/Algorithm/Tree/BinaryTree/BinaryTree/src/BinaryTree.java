@@ -1,8 +1,8 @@
 public class BinaryTree {
-    Node root;
+    Node node;
 
     public void insert(int data){
-        root = insertNode(root, data);
+        node = insertNode(node, data);
     }
 
     private Node insertNode(Node current, int data){
@@ -23,6 +23,10 @@ public class BinaryTree {
      * @DESC: 중위 순회
      */
     public void inOrderTraversal(Node root){
-
+        if(root != null){
+            inOrderTraversal(root.left);
+            System.out.print(root.data+ " ");
+            inOrderTraversal(root.right);
+        }
     }
 }
