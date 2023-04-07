@@ -8,5 +8,9 @@ public class Main {
         }
 
         tree.inOrderTraversal(tree.node);
+        System.out.println();
+        tree.preOrder(tree.node);
+        System.out.println();
+        tree.postOrderTraversal(tree.node);
     }
 }

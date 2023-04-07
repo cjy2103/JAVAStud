@@ -10,9 +10,9 @@ public class BinaryTree {
             return new Node(data);
         }
 
-        if(data < current.data){
+        if(data <= current.data){
             current.left = insertNode(current.left, data);
-        } else if(data > current.data){
+        } else {
             current.right = insertNode(current.right, data);
         }
 
@@ -20,13 +20,36 @@ public class BinaryTree {
     }
 
     /**
-     * @DESC: 중위 순회
+     * @DESC: 전위 순회
      */
-    public void inOrderTraversal(Node root){
-        if(root != null){
-            inOrderTraversal(root.left);
-            System.out.print(root.data+ " ");
-            inOrderTraversal(root.right);
+    public void preOrder(Node node){
+        if(node != null){
+            System.out.print(node.data+ " ");
+            preOrder(node.left);
+            preOrder(node.right);
         }
     }
+
+    /**
+     * @DESC: 중위 순회
+     */
+    public void inOrderTraversal(Node node){
+        if(node != null){
+            inOrderTraversal(node.left);
+            System.out.print(node.data+ " ");
+            inOrderTraversal(node.right);
+        }
+    }
+
+    /**
+     * @DESC: 후위 순회
+     */
+    public void postOrderTraversal(Node node){
+        if(node != null){
+            postOrderTraversal(node.left);
+            postOrderTraversal(node.right);
+            System.out.print(node.data+ " ");
+        }
+    }
+
 }
