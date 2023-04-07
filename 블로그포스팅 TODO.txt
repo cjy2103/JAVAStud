@@ -259,6 +259,9 @@ ConcurrentModificationException
 
 백트레킹
 
+트리 구현 / insert ( v )
+
+
 ======= 콜렉션 ==========
 Collection ( v )
 Vector ( v )
