@@ -19,6 +19,43 @@ public class BinaryTree {
         return current;
     }
 
+    public void delete(int data){
+        node = deleteNode(node, data);
+    }
+
+    private Node deleteNode(Node node, int data) {
+        if(node == null){
+            return null;
+        }
+
+        if(data == node.data){
+            if(node.left == null){
+                return node.right;
+            } else if (node.right == null){
+                return node.left;
+            } else {
+                Node successor = findSuccessor(node.right);
+                node.data = successor.data;
+                node.right = deleteNode(node.right, successor.data);
+                return node;
+            }
+        } else if(data < node.data){
+            node.left = deleteNode(node.left, data);
+        } else {
+            node.right = deleteNode(node.right, data);
+        }
+
+        return node;
+    }
+
+    private Node findSuccessor(Node node) {
+        while (node.left != null){
+            node = node.left;
+        }
+        return node;
+    }
+
+
     /**
      * @DESC: 전위 순회
      */
