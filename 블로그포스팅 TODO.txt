@@ -262,6 +262,8 @@ ConcurrentModificationException
 트리 구현 / insert ( v )
 
 트리 순회 (전위, 중위, 후위) ( v )
+
+트리 요소 삭제 ( v )
 ======= 콜렉션 ==========
 Collection ( v )
 Vector ( v )

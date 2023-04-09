@@ -44,10 +44,12 @@ public class BinaryTree {
         } else {
             node.right = deleteNode(node.right, data);
         }
-
         return node;
     }
 
+    /**
+     * @DESC: 하위 노드 존재시 해당 노드를 삭제할 노드 대신 변경
+     */
     private Node findSuccessor(Node node) {
         while (node.left != null){
             node = node.left;
