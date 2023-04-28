@@ -237,6 +237,8 @@ getClass와 instanceOf의 차이
 
 reduce ( v )
 
+BinaryOperator란? ( v )
+
 
 
 ============== 예외 ================
