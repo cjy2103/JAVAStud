@@ -239,6 +239,8 @@ reduce ( v )
 
 BinaryOperator란? ( v )
 
+헬퍼 메서드 / Helper Method ( v )
+
 
 
 ============== 예외 ================
