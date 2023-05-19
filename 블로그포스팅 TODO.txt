@@ -10,6 +10,8 @@
 
 문자열 -> 정수형 변환 , parseInt ( v )
 
+equalsIgnoreCase ( v )
+
 length, length() 차이 ( v )
 
 1차원 배열 출력 ( v )
