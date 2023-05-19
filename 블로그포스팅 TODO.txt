@@ -304,7 +304,7 @@ HashMap ( capacity, load factor) ( v )
 
 옵저버 패턴 ( v )
 
-팩토리 패턴
+팩토리 패턴 ( v )
 
 데코레이터 패턴
 
@@ -316,7 +316,7 @@ Pub/Sub 패턴 ( v )
 
 템플릿 메서드 ( v )
 
-팩토리 패턴 ( v )
+어댑터(Adapter) 패턴 ( v )
 
 Visitor 패턴
 Composite 패턴
