@@ -168,7 +168,7 @@ shallow Copy , Deep Copy ( v )
 
 OCP 예시 ( v )
 
-꼬리재귀
+꼬리재귀 ( v )
 
 타입 찾아내기 ( v )
 
