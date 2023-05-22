@@ -320,6 +320,8 @@ Pub/Sub 패턴 ( v )
 
 어댑터(Adapter) 패턴 ( v )
 
+커맨드(Command) 패턴 ( v )
+
 Visitor 패턴
 Composite 패턴
 
