@@ -308,7 +308,7 @@ HashMap ( capacity, load factor) ( v )
 
 팩토리 패턴 ( v )
 
-데코레이터 패턴
+데코레이터 패턴 ( v )
 
 프록시 패턴
 
