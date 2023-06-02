@@ -310,7 +310,7 @@ HashMap ( capacity, load factor) ( v )
 
 데코레이터 패턴 ( v )
 
-프록시 패턴
+프록시 패턴 ( v )
 
 Pub/Sub 패턴 ( v )
 
