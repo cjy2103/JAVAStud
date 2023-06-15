@@ -1,5 +1,5 @@
 // Visitor
 public interface AnimalVisitor {
-    void visitLion(Lion lion);
+    void visitBeaver(Beaver beaver);
     void visitElephant(Elephant elephant);
 }
