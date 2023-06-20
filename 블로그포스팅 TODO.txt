@@ -326,6 +326,8 @@ Pub/Sub 패턴 ( v )
 
 Visitor 패턴 ( v )
 
+레포지토리 패턴 / Repository 패턴 ( v )
+
 Composite 패턴
 
 =======
