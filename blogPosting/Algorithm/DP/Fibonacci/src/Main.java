@@ -8,5 +8,8 @@ public class Main {
 
         System.out.println(fibonacci.dpFibonacci(5));
         System.out.println(fibonacci.dpFibonacci(10));
+
+        System.out.println(fibonacci.fibonacci(5));
+        System.out.println(fibonacci.fibonacci(10));
     }
 }

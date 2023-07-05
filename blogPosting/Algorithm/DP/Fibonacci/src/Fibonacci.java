@@ -22,4 +22,22 @@ public class Fibonacci {
 
         return dp[n];
     }
+
+    public int fibonacci(int n) {
+        int[] memo = new int[n + 1];
+        return fibonacciHelper(n, memo);
+    }
+
+    private int fibonacciHelper(int n, int[] memo) {
+        if (n <= 1) {
+            return n;
+        }
+
+        if (memo[n] != 0) {
+            return memo[n];
+        }
+
+        memo[n] = fibonacciHelper(n - 1, memo) + fibonacciHelper(n - 2, memo);
+        return memo[n];
+    }
 }
