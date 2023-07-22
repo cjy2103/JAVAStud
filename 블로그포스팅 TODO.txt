@@ -332,7 +332,7 @@ Visitor 패턴 ( v )
 
 레포지토리 패턴 / Repository 패턴 ( v )
 
-Composite 패턴
+Composite 패턴 ( v )
 
 =======
 
