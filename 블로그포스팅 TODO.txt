@@ -308,6 +308,10 @@ TreeMap
 HashMap ( capacity, load factor) ( v )
 
 
+====== SOLID ======
+OCP 예제 ( v )
+SRP 예제 ( v )
+
 ======= 디자인패턴 =====
 
 옵저버 패턴 ( v )
