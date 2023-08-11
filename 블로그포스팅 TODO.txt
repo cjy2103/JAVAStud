@@ -230,7 +230,7 @@ Stream 자르기 skip(), limit()
 
 직렬화
 
-getClass() 
+getClass ( v ) 
 instanceOf
 
 Default Method ( v )
