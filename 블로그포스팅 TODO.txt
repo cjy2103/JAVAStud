@@ -99,6 +99,8 @@ BufferReader / BufferWriter ( v )
 
 데몬 스레드 ( v )
 
+가상 스레드 ( v )
+
 trim ( v )
 
 자바 Data class / Record ( v )
