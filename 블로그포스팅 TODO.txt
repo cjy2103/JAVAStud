@@ -252,6 +252,8 @@ BinaryOperator란? ( v )
 
 자바 인터페이스 변수 ( v ) 
 
+자바(Java) - 상속과 의존성에 관해서 ( v )
+
 
 ============== 예외 ================
 ConcurrentModificationException
