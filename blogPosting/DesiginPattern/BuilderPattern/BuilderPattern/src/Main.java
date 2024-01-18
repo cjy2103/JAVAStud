@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 //클라이언트 (Director)
 public class Main {
     public static void main(String[] args) {
@@ -10,5 +12,6 @@ public class Main {
 
         // 생성된 객체 출력
         System.out.println(person);
+        
     }
 }
