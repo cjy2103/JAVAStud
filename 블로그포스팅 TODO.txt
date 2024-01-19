@@ -300,6 +300,10 @@ ConcurrentModificationException
 BFS ( v )
 
 BitMask 집합 예제 ( v )
+
+자바(Java) 배열 - 빠진 숫자의 값 찾기 / 1부터 1억까지 빠진 숫자 효율적으로 찾는 법 / XOR 연산 ( v )
+
+
 ======= 콜렉션 ==========
 Collection ( v )
 Vector ( v )
