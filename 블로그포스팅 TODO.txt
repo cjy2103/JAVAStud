@@ -312,7 +312,7 @@ LinkedList ( v )
 리스트 vs 배열 ( v )
 Stack ( v )
 Queue ( v )
-Priority Queue ( )
+Priority Queue ( v )
 Set / HashSet ( v )
 TreeSet
 
