@@ -314,7 +314,7 @@ Stack ( v )
 Queue ( v )
 Priority Queue ( v )
 Set / HashSet ( v )
-TreeSet
+TreeSet ( v )
 
 Map / HashMap ( v )
 HashTable
