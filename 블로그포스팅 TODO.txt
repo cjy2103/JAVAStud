@@ -285,7 +285,7 @@ ConcurrentModificationException
 
 최대공약수, 최소공배수 구하기 ( v )
 
-백트레킹
+백트레킹 ( v )
 
 트리 구현 / insert ( v )
 
